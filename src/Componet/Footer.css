@@ -1,0 +1,27 @@
+.foot {
+  padding: 5rem;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: end; */
+
+  justify-content: space-around;
+  gap: 2rem;
+  background-color: #414040;
+  color: #ffff;
+}
+
+.logo {
+  width: 25px;
+}
+
+.Home:hover {
+  color: blue;
+}
+
+.color {
+  color: #ffff;
+}
+
+.footerlogo {
+  justify-content: start;
+}

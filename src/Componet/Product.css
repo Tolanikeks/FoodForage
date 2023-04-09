@@ -1,0 +1,13 @@
+.product {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .product {
+    display: none;
+  }
+}

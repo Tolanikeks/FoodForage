@@ -1,0 +1,24 @@
+.images {
+  background-color: #cce0c0;
+}
+.aboutFood {
+  text-align: center;
+}
+.about {
+  width: 20rem;
+}
+.foodforage {
+  text-align: center;
+  background-color: #414040;
+}
+body {
+  font-family: "Barlow", sans-serif;
+}
+
+.home1:hover {
+  color: rgb(106, 211, 106);
+}
+
+.home1:visited {
+  color: blue;
+}
